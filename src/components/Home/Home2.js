@@ -49,7 +49,10 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript . </b>
+                <b className="purple">
+                  {" "}
+                  C++, React, Node.js, MongoDB, NeonDB, Next.js{" "}
+                </b>
               </i>
               <br />
               <br />
